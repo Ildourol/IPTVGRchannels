@@ -402,12 +402,12 @@ https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 #EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sports" group-title="Sport betting",Racing.com (720p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:2226 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://i.imgur.com/Cdsorf6.png" group-title="Greek",ANT1 CY
-http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="4E.gr" tvg-logo="https://i.imgur.com/Na0UCV7.png" group-title="Greek",4E (720p)
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="" tvg-logo="https://i.imgur.com/6IhEVAt.png" group-title="Greek",4E
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:2226 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://i.imgur.com/Cdsorf6.png" group-title="Greek",ANT1 CY
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:300 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/V1w22Or.png" group-title="Greek",ANT1 HD
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Greek",ERT World (1080p)
