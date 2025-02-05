@@ -15,7 +15,7 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:9011 group-title="WEB TV" tvg-logo="https://i.imgur.com/n7sroRH.png",NAFTEMPORIKH TV
 http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
-#EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="hhttps://en.wikipedia.org/wiki/Hellenic_Broadcasting_Corporation#/media/File:ERT_logo_2020.svg" group-title="News",ERT News (1080p)
+#EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://seeklogo.com/images/E/ert-greek-radio-and-television-logo-995A46CD3E-seeklogo.com.png" group-title="News",ERT News (1080p)
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="Movies",Pluto TV Action
