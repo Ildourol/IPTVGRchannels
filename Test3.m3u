@@ -288,7 +288,7 @@ https://s1.cystream.net/live/faros1/playlist.m3u8
 https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rIt5pfv.png" group-title="Greek",VOULI TV CY
 https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 tvg-logo="",CYPRUS TV
+#EXTINF:-1 tvg-logo="" group-title="Greek",CYPRUS TV
 https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 #EXTINF:3016 tvg-name="" tvg-logo="" group-title="Greek",ONE TV
 http://push-int.siliconweb.com/one/stream/playlist.m3u8
@@ -388,7 +388,7 @@ https://ssh101-fl.bozztv.com/ssh101/cinematimetv/playlist.m3u8
 https://ssh101-fl.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Greek",ARGOLIDA SPORT
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="" group-title="Music",MAD WORLD
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Music",MAD WORLD
 https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="" group-title="Movies",VILLAGE WORLD
 https://ellastvmax.better-than.tv/freetv/village-world/index.m3u8
@@ -398,9 +398,9 @@ https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",MONTAZ TV
 https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Sport betting",OPAP TV
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Sport",OPAP TV
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
-#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sports" group-title="Sport betting",Racing.com (720p)
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sport",Racing.com (720p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 tvg-id="4E.gr" tvg-logo="https://i.imgur.com/Na0UCV7.png" group-title="Greek",4E (720p)
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
@@ -418,7 +418,7 @@ http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlis
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-id="StarChannelInternational.gr" tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="Greek",STAR International (720p)
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
-#EXTINF:9007 tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
+#EXTINF:9007 tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="Greek",ERT SPORTS 
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
-#EXTINF:-1 tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 2
+#EXTINF:-1 tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="Greek",ERT SPORTS 2
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
