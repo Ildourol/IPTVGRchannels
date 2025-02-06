@@ -504,11 +504,11 @@ https://ssh101-fl.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Music",MAD WORLD
 https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="" group-title="Movies",VILLAGE WORLD
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Movies",VILLAGE WORLD
 https://ellastvmax.better-than.tv/freetv/village-world/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Greek",EVRIPOS TV
 https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="" group-title="Greek",ECTACY TV
+#EXTINF:-1 tvg-logo="" group-title="Greek",ECTACY TV
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greek",MONTAZ TV
 https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
