@@ -570,3 +570,24 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://9923722c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Sport",American Ninja Warrior
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884523/hls/master.m3u8?ads.xumo_channelId=88884523
+
+#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg" group-title="Toonami Aftermath",Toonami Aftermath East EST
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?useHttps=true
+
+#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20west.jpg" group-title="Toonami Aftermath",Toonami Aftermath West PST
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8?useHttps=true
+
+#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20movies.jpg" group-title="Toonami Aftermath",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8?useHttps=true
+
+#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20radio.jpg" group-title="Toonami Aftermath",Toonami Aftermath Radio
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8?useHttps=true
+
+#EXTINF:0, tvg-logo="" group-title="Kids",Snickelodeon East EST
+http://api.toonamiaftermath.com:3000/snick-est/playlist.m3u8?useHttps=true
+
+#EXTINF:0, tvg-logo="" group-title="Kids",Snickelodeon West PST
+http://api.toonamiaftermath.com:3000/snick-pst/playlist.m3u8?useHttps=true
+
+#EXTINF:0, tvg-logo="" group-title="Kids",MTV 97
+http://api.toonamiaftermath.com:3000/mtv97/playlist.m3u8?useHttps=true
