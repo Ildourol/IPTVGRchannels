@@ -587,20 +587,3 @@ http://api.toonamiaftermath.com:3000/snick-pst/playlist.m3u8?useHttps=true
 
 #EXTINF:0, tvg-logo="Kids" group-title="Kids",MTV 97
 http://api.toonamiaftermath.com:3000/mtv97/playlist.m3u8?useHttps=truetrue
-
-#EXTINF:-1 tvg-ID="PLEX.TV.ACCDN" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/accdn-logo.png" group-title="PLEX USA",ACCDN
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="PLEX.TV.AFV.Español" tvg-name="AFV Español" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-espanol.png" group-title="PLEX USA",AFV Español
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="PLEX.TV.AFV.Family" tvg-name="AFV Family" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="PLEX USA",AFV Family
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="PLEX.TV.AsianCrush" tvg-name="AsianCrush" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ac_samsung.png" group-title="PLEX USA",AsianCrush
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="PLEX.TV.BAMBU" tvg-name="BAMBU" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bambu_1.png" group-title="PLEX USA",BAMBU
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8b?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="PLEX.TV.Canela.TV" tvg-name="Canela TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/canelatv-v2-logo.png" group-title="PLEX USA",Canela TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="PLEX.TV.Channel.Fight" tvg-name="Channel Fight" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/channel-fight.png" group-title="PLEX USA",Channel Fight
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="PLEX.TV.Cheddar.News" tvg-name="Cheddar News" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cheddar_cheddar_3_logo.png" group-title="PLEX USA",Cheddar News
-
