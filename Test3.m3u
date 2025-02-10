@@ -169,6 +169,8 @@ https://ifood-vizio.amagi.tv/playlist.m3u8
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cooking",Tastemade
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmes8intl-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="Grjngo.pl" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" group-title="Movies Classic",Grjngo (720p)
+https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
 #EXTINF:-1 group-title="Movies Classic",Midnight Pulp
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="Movies Classic",Lonestar
@@ -587,3 +589,8 @@ http://api.toonamiaftermath.com:3000/snick-pst/playlist.m3u8?useHttps=true
 
 #EXTINF:0, tvg-logo="Kids" group-title="Kids",MTV 97
 http://api.toonamiaftermath.com:3000/mtv97/playlist.m3u8?useHttps=truetrue
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="New",Toonami (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-logo="https://i.imgur.com/U7qh4yF.png" group-title="New",Toonami (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
