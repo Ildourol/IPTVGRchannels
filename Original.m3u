@@ -1,22 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ANT1Cyprus.cy" tvg-logo="https://i.imgur.com/2KAObBt.png" group-title="Main Greek ch",ANT1 Cyprus (1080p)
+#EXTINF:-1 tvg-id="ANT1Cyprus.cy" tvg-logo="https://i.imgur.com/2KAObBt.png" group-title="Main",ANT1 Cyprus (1080p)
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:900 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/Dy4RR7G.png" group-title="Main Greek ch",MEGA HD
+#EXTINF:900 tvg-name="" tvg-logo="https://i.imgur.com/Dy4RR7G.png" group-title="Main",MEGA HD
 http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-#EXTINF:100 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/utv0rWj.png" group-title="Main Greek ch",ALPHA HD
+#EXTINF:100 tvg-name="" tvg-logo="https://i.imgur.com/utv0rWj.png" group-title="Main",ALPHA HD
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
-#EXTINF:700 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/zGpwulO.png" group-title="Main Greek ch",STAR HD 
+#EXTINF:700 tvg-name=""tvg-logo="https://i.imgur.com/zGpwulO.png" group-title="Main",STAR HD 
 https://livestar.siliconweb.com/media/star4/star4.m3u8
-#EXTINF:600 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/BXmta4G.png" group-title="Main Greek ch",SKAI HD 
+#EXTINF:600 tvg-name="" tvg-logo="https://i.imgur.com/BXmta4G.png" group-title="Main",SKAI HD 
 http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
-#EXTINF:800 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="Main Greek ch",OPEN TV HD
+#EXTINF:800 tvg-name=""tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="Main",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Action24.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="Main Greek ch",Action 24 (1080p)
+#EXTINF:-1 tvg-id="Action24.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="Main",Action 24 (1080p)
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1 tvg-id="NaftemporikiTV.gr" tvg-logo="https://i.imgur.com/9OFdMud.png" group-title="Business",Naftemporiki TV (1080p)
+#EXTINF:-1 tvg-id="NaftemporikiTV.gr" tvg-logo="https://i.imgur.com/9OFdMud.png" group-title="Main",Naftemporiki TV (1080p)
 https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
-#EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://seeklogo.com/images/E/ert-greek-radio-and-television-logo-995A46CD3E-seeklogo.com.png" group-title="Main Greek ch",ERT News (1080p)
+#EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://seeklogo.com/images/E/ert-greek-radio-and-television-logo-995A46CD3E-seeklogo.com.png" group-title="Main",ERT News (1080p)
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7F4ED19D-B427-421F-84AC-03E3775D1203/3-1x1.png" tvg-id="LN_7F4ED19D-B427-421F-84AC-03E3775D1203" group-title="Movies",Hi-Yah!
+https://s1host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config1/dist/localnow/59/hls/master/playlist.m3u8?ads.cdnhost=s1host2.localnow.api.cms.amdvids.com&ads.playbackid=7F4ED19D-B427-421F-84AC-03E3775D1203&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=7F4ED19D-B427-421F-84AC-03E3775D1203&ads.n4=content_name&ads.v4=EPG%20%7C%20Hi-Yah%21&ads.n21=channel_company_id&ads.v21=AMDP500227&ads.n22=ua&ads.v22=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n23=content_custom_1_param&ads.v23=7F4ED19D-B427-421F-84AC-03E3775D1203&ads.n24=app_store_url&ads.v24=&ads.n25=channel_ext_id&ads.v25=6170408a74cbf57d532ff8e3&ads.n26=device_make&ads.v26=&ads.n27=h&ads.v27=1080&ads.n28=us_privacy&ads.v28=1YNY&ads.n29=channel_title&ads.v29=EPG%20%20Hi-Yah%21&ads.n30=content_custom_3_param&ads.v30=channel&ads.n31=channel_name&ads.v31=EPG%20%20Hi-Yah%21&ads.n32=content_type&ads.v32=channel&ads.n33=ifa_type&ads.v33=&ads.n34=content_livestream&ads.v34=1&ads.n35=app_version&ads.v35=0.0.0&ads.n36=ip&ads.v36=181.215.195.227&ads.n37=device_model&ads.v37=&ads.n38=channel_corp&ads.v38=Well%20Go%20USA%20INC&ads.n39=channel_rating&ads.v39=TV-PG&ads.n40=url&ads.v40=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n41=device_type&ads.v41=&ads.n42=channel_brand_id&ads.v42=AMDB012521&ads.n43=channel_language&ads.v43=English&ads.n44=channel_id&ads.v44=7F4ED19D-B427-421F-84AC-03E3775D1203&ads.n45=app_name&ads.v45=&ads.n46=app_bundle&ads.v46=&ads.n47=network_name&ads.v47=hiyah&ads.n48=dnt&ads.v48=&ads.n49=content_custom_2_param&ads.v49=AMDB012521&ads.n50=did&ads.v50=&ads.n51=w&ads.v51=1920&ads.n52=channel_genre&ads.v52=Action%2FAdventure&ads.n53=content_producer_name&ads.v53=Well%20Go%20USA%20INC&ads.n54=pos&ads.v54=midroll&ads.n55=content_provider&ads.v55=hiyah&ads.n56=cust_devicename&ads.v56=desktop_web
+#EXTINF:-1 group-title="Movies",Mob TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="Movies",Pluto TV Action
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
 #EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us" tvg-logo="https://i.imgur.com/9j1njE3.png" group-title="Movies",Pluto TV Crime Drama
@@ -41,30 +45,94 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b65-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c2fde2b7-d78e-4906-abf2-3c433f73ec5b
 #EXTINF:-1 tvg-id="PlutoTVTerror.us" tvg-logo="https://i.imgur.com/eWtoHDM.png" group-title="Movies",Pluto TV Terror
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbd5d7ff-a6cc-4ad9-bb5f-d0f36c75fc29
-#EXTINF:-1 tvg-id="PlutoTVWesterns.us" tvg-logo="https://i.imgur.com/biepi4A.png" group-title="Movies",Pluto TV Westerns
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6272-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e8336d8-e46b-4f0f-86ff-ba6f9678d77a
-#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="Movies",DiscoverFilm
-https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="Movies",Paramount Movie Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies",Paramount Network East
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="Movies",Paramount+ Picks
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
+#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-logo="https://i.imgur.com/yfOwmsP.png" group-title="Movies",The Film Detective
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Baywatch
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65819e62b228b70008570e9f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca063-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f0769dd4-6475-4c1e-9a06-d8d9ec69d7b7
+#EXTINF:-1 group-title="Movies",Baywatch
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-logo="https://i.imgur.com/5vtPBfj.png" group-title="Movies",Doctor Who Classic
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c46-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bae93de-a4f6-4506-b033-58665f52d2fd
+#EXTINF:-1 group-title="Movies",MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Brat TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-bratttv-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Bref Cinema (EU)
+https://lagenceducourtmetrage-brefcinema-01-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",AMC Stories (US)
+https://amc-amcpresents-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",AMC Portlandia (US)
+https://amc-portlandia-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",AMD The Walking Dead Fan Experience (US)
+https://amc-twdfanexperience-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Filmzie (GB)
+https://filmzie-filmzie-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",00s Replay
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
+#EXTINF:-1 tvg-id="DistroTVUS_15662" tvg-logo="https://a.jsrdn.com/hls/22731/movie-kingdom/logo_20231219_220049_70.png" group-title="Movies",Movie Kingdom
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/movie-kingdom/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22731&ads.content_duration=18000&ads.episode_id=15662&ads.show_id=538&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CAction%2FAdventure%2CDrama%2CAfrican&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Movie%20Kingdom&ads.episodetitle=Movie%20Kingdom&ads.keywords=movies&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 tvg-id="DistroTVUS_49342" tvg-logo="https://a.jsrdn.com/hls/22933/cinelife/logo_20231219_192316_68.png" group-title="Movies",CineLife
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22933&ads.content_duration=18000&ads.episode_id=49342&ads.show_id=1259&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CDrama%2CAction%2FAdventure%2CFantasy%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=CineLife&ads.episodetitle=CineLife&ads.keywords=cinelife&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=cinelife&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 tvg-id="DistroTVUS_39730" tvg-logo="https://a.jsrdn.com/hls/22907/24-hour-free-movies/logo_20231219_183702_63.png" group-title="Movies",24 Hour Free Movies
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22907&ads.content_duration=18000&ads.episode_id=39730&ads.show_id=1195&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CDrama%2CAction%2FAdventure%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=24%20Hour%20Free%20Movies&ads.episodetitle=24%20Hour%20Free%20Movies&ads.keywords=24%20Hour%20Free%20Movies&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="Main",Anime All Day
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
+#EXTINF:-1 group-title="Kids",Super Anime (GB)
+http://beanostudios-super-anime-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Pluto TV Anime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f5f82-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95e1f29c-bf6d-41bb-9fce-486049aaae5d
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel (720p)
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD (720p)
+#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Main",Disney XD (720p)
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="WuTangCollection.us" tvg-logo="https://i.imgur.com/sz55sBl.png" group-title="Movies",Wu Tang Collection (720p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
-#EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV
-https://streamer1.nexgen.bz/MTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",South Park
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0253-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=67f014c4-f66e-4860-a7d5-9e9de1cab501
+#EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="Kids",Yu-Gi-Oh!
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3738-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31531314-3e7f-4788-8c4f-f153a43ee0a0
+#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon East
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Main",Nickelodeon Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291
+#EXTINF:-1 tvg-id="ABCMESydney.au" tvg-logo="https://i.imgur.com/6NyFLAm.png" group-title="Main",ABC Me (720p)
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
+https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-id="TVSHiTops.us" tvg-logo="https://i.imgur.com/RiWg1IA.png" group-title="Kids",TVS Hi Tops (720p)
+https://bozztv.com/gusa/gusa-hitops/index.m3u8
+#EXTINF:-1 tvg-id="TVSPinballNetwork.us" tvg-logo="https://i.imgur.com/HHmc14i.png" group-title="Kids",TVS Pinball Network (480p)
+https://bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-id="RetroCrush.us" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Kids";Classic",Retro Crush
+https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Kids",Anime Zone TV (480p)
+http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="Business",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-logo="https://www.theofficialboard.com/img/twitterCompanyBigImages/32361.jpg" group-title="Business",Bloomberg Originals (1080p)
 https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/T4HwPUn.png" group-title="Business",Bloomberg Quicktake
 https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="BloombergTVPlus.us" group-title="Business",Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="Business",Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="Timeline.us" tvg-logo="https://i.imgur.com/PZRQvFv.png" group-title="Documentaries",Timeline
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="Business",Rise Financial (EU)
+https://rise-financial-roi-tv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Business",ETV (GB)
+https://sasuprimetv-etv-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Business",Euronews World (EU)
+https://euronews-euronews-world-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Business",Scripps News (US)
+https://scripps-newsy-3-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Business",NBC News Now
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814557/hls/master.m3u8?ads.xumo_channelId=88814557&ads.xumo_streamId=88814557
 #EXTINF:-1 tvg-id="DR1.dk" tvg-logo="https://i.imgur.com/OETzsOI.png" group-title="Denmark",DR1 (1080p) [Geo-blocked]
 https://drlive01hls.akamaized.net/hls/live/2014185/drlive01/master.m3u8
 #EXTINF:-1 tvg-id="DR2.dk" tvg-logo="https://i.imgur.com/7bYtukP.png" group-title="Denmark",DR2 (1080p) [Geo-blocked]
@@ -79,17 +147,145 @@ https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7q
 https://cdn-akamai-live.tv2bornholm.dk/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal Hovedstaden" tvg-logo="https://i.imgur.com/MCXYDwH.png" tvg-id="KanalHovedstaden.dk" group-title="Denmark",Kanal Hovedstaden
 http://khkbh.dk:8080/hls/livestream/index.m3u8
+#EXTINF:-1 group-title="Denmark",Nature Time (DK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgdk/playlist.m3u8
+#EXTINF:-1 group-title="Denmark",Real Wild (DK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lgdk/playlist.m3u8
+#EXTINF:-1 group-title="Denmark",Autentic History (DK)
+https://autentic-autentichistory-1-dk.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Denmark",Adventure Earth (DK)
+https://autentic-adventure-earth-1-dk.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCFood.us" tvg-logo="https://i.imgur.com/kcmHcSx.png" group-title="Cooking",BBC Food
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-logo="https://i.imgur.com/prMkTsZ.png" group-title="Cooking",America's Test Kitchen
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268074-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=29e05466-9808-43c4-9894-00b77be27051
+#EXTINF:-1 tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",bon appétit (1080p)
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us" tvg-logo="https://i.imgur.com/WgN4T18.png" group-title="Cooking",Gordon Ramsay's Hell's Kitchen
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291882-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c7ee55eb-3425-4f5e-a567-3a1ed6ca44ec
+#EXTINF:-1 tvg-id="iFoodTV.us" tvg-logo="https://i.imgur.com/cBOkQtS.png" group-title="Cooking",iFood.TV (720p)
+https://ifood-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cooking",Food (EU)
+https://food-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cooking",Tastemade
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmes8intl-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="Grjngo.pl" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" group-title="Movies Classic",Grjngo (720p)
+https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
+#EXTINF:-1 group-title="Movies Classic",Midnight Pulp
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="Movies Classic",Lonestar
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-lonestar-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVWesterns.us" tvg-logo="https://i.imgur.com/biepi4A.png" group-title="Movies Classic",Pluto TV Westerns
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6272-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e8336d8-e46b-4f0f-86ff-ba6f9678d77a
+#EXTINF:-1 tvg-id="WuTangCollection.us" tvg-logo="https://i.imgur.com/sz55sBl.png" group-title="Movies Classic",Wu Tang Collection (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+#EXTINF:-1 tvg-id="CinevaultWesterns.us" tvg-logo="https://i.imgur.com/K1W137J.png" group-title="Movies Classic",Cinevault Westerns (720p)
+https://apollo.production-public.tubi.io/live/ac-cinevault-westerns.m3u8
+#EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-logo="https://i.imgur.com/dwr98qb.png" group-title="Movies Classic",TVS Western Movie (270p)
+https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-id="WantedDeadorAlive.us" tvg-logo="https://i.imgur.com/vaSXaFp.png" group-title="Movies Classic",Wanted: Dead or Alive
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6089788de5c8410007808e26/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1025-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66e6d8ef-5958-4806-9fdc-ff058061dd07
+#EXTINF:-1 tvg-id="WesternTV.us" tvg-logo="https://i.imgur.com/nNy9oTx.png" group-title="Movies Classic",Western TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d102a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b2ed67fd-7088-4b5b-bf24-daa30ff6efdc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies Classic",Universal Westerns
+https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="TVSClassicMovies.us" tvg-logo="https://i.imgur.com/st1xMsw.png" group-title="Movies Classic",TVS Classic Movies (288p)
+https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="Movies Classic",TVS Hollywood History (582p)
+https://bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-id="TVSMainstreet.us" tvg-logo="https://i.imgur.com/N9nQpnP.png" group-title="Movies Classic",TVS Mainstreet (360p) [Not 24/7]
+https://bozztv.com/gusa/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgia.us" tvg-logo="https://i.imgur.com/q72FCCQ.png" group-title="Movies Classic",TVS Nostalgia (472p)
+https://bozztv.com/gusa/gusa-nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us" tvg-logo="https://i.imgur.com/w4fxiKi.png" group-title="Movies Classic",TVS Nostalgia Movies (480p)
+https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E3CBE4A5-777D-4FE4-B392-DCF0604AAAF0/3-1x1.png" tvg-id="LN_E3CBE4A5-777D-4FE4-B392-DCF0604AAAF0" group-title="Movies Classic",Wild West TV
+https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/799/hls/master/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/233F339E-2A7B-4F3B-8087-FE1D4EC8DC06/3-1x1.png" tvg-id="LN_233F339E-2A7B-4F3B-8087-FE1D4EC8DC06" group-title="Movies Classic",Old West TV
+https://s3host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/d/4IXOLHSBOS5AIVSPUGZB/hls3/now_-1m_15s/m.m3u8?ads.ic=IAB1-5&ads.provider=TrueAmerican&ads.rating=TV14&ads.vast_id=STA114&ads.channel_name=Old%20West%20TV&ads.content_genre=Western%2CMovies&ads.content_series=zorro%27s%20black%20whip%20part%20%20%20%20one&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&ccpa_us_privacy=1YNY&device_devicetype=desktop_web&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.cdnhost=s3host2.localnow.api.cms.amdvids.com&ads.playbackid=233F339E-2A7B-4F3B-8087-FE1D4EC8DC06&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=233F339E-2A7B-4F3B-8087-FE1D4EC8DC06&ads.n4=content_name&ads.v4=EPG%20%7C%20Old%20West%20TV&ads.n21=cust_devicename&ads.v21=desktop_web&ads.n22=channel_name&ads.v22=EPG%20%20Old%20West%20TV&ads.n23=channel_genre&ads.v23=Western&ads.n24=app_store_url&ads.v24=&ads.n25=channel_corp&ads.v25=SotalCloud%20INC&ads.n26=us_privacy&ads.v26=1YNY&ads.n27=app_version&ads.v27=0.0.0&ads.n28=content_custom_3_param&ads.v28=channel&ads.n29=channel_company_id&ads.v29=AMDP500264&ads.n30=ua&ads.v30=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n31=channel_ext_id&ads.v31=61fd71f670c089557402a113&ads.n32=channel_rating&ads.v32=TV-PG&ads.n33=network_name&ads.v33=old-west-tv&ads.n34=channel_language&ads.v34=English&ads.n35=content_provider&ads.v35=old-west-tv&ads.n36=dnt&ads.v36=&ads.n37=device_model&ads.v37=&ads.n38=device_type&ads.v38=&ads.n39=ifa_type&ads.v39=&ads.n40=pos&ads.v40=midroll&ads.n41=url&ads.v41=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n42=app_bundle&ads.v42=&ads.n43=h&ads.v43=1080&ads.n44=ip&ads.v44=181.215.195.227&ads.n45=content_custom_1_param&ads.v45=233F339E-2A7B-4F3B-8087-FE1D4EC8DC06&ads.n46=channel_title&ads.v46=EPG%20%20Old%20West%20TV&ads.n47=content_type&ads.v47=channel&ads.n48=device_make&ads.v48=&ads.n49=content_custom_2_param&ads.v49=AMDB012655&ads.n50=w&ads.v50=1920&ads.n51=did&ads.v51=&ads.n52=app_name&ads.v52=&ads.n53=content_producer_name&ads.v53=SotalCloud%20INC&ads.n54=channel_brand_id&ads.v54=AMDB012655&ads.n55=content_livestream&ads.v55=1&ads.n56=channel_id&ads.v56=233F339E-2A7B-4F3B-8087-FE1D4EC8DC06
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2785E158-C3AB-48A3-9655-D78461C0FFA0/3-1x1.png" tvg-id="LN_2785E158-C3AB-48A3-9655-D78461C0FFA0" group-title="Movies Classic",Cowboy Classics
+https://s2host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config2/d/HSKV2TFJKIB08IVJ32W0/hls3/now_-1m_15s/m.m3u8?ads.provider=Global%20Media&ads.rating=TV14&ads.vast_id=SGL101&ads.channel_name=Cowboy%20Classics&ads.content_genre=Western%2CMovies&ads.content_series=Code%20of%20the%20Cactus&ads.ic=IAB1-5&device_devicetype=desktop_web&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&ccpa_us_privacy=1YNY&ads.cdnhost=s2host1.localnow.api.cms.amdvids.com&ads.playbackid=2785E158-C3AB-48A3-9655-D78461C0FFA0&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=2785E158-C3AB-48A3-9655-D78461C0FFA0&ads.n4=content_name&ads.v4=EPG%20%7C%20Cowboy%20Classics&ads.n21=device_model&ads.v21=&ads.n22=channel_id&ads.v22=2785E158-C3AB-48A3-9655-D78461C0FFA0&ads.n23=content_provider&ads.v23=cowboy-classics&ads.n24=channel_ext_id&ads.v24=61f315775269ed2b95267b23&ads.n25=content_livestream&ads.v25=1&ads.n26=network_name&ads.v26=cowboy-classics&ads.n27=content_custom_1_param&ads.v27=2785E158-C3AB-48A3-9655-D78461C0FFA0&ads.n28=us_privacy&ads.v28=1YNY&ads.n29=app_store_url&ads.v29=&ads.n30=app_bundle&ads.v30=&ads.n31=device_make&ads.v31=&ads.n32=h&ads.v32=1080&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=channel_title&ads.v34=EPG%20%20Cowboy%20Classics&ads.n35=channel_company_id&ads.v35=AMDP500264&ads.n36=ua&ads.v36=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n37=channel_corp&ads.v37=SotalCloud%20INC&ads.n38=ip&ads.v38=181.215.195.227&ads.n39=app_version&ads.v39=0.0.0&ads.n40=channel_genre&ads.v40=Western&ads.n41=content_type&ads.v41=channel&ads.n42=content_custom_2_param&ads.v42=AMDB012700&ads.n43=channel_brand_id&ads.v43=AMDB012700&ads.n44=content_producer_name&ads.v44=SotalCloud%20INC&ads.n45=dnt&ads.v45=&ads.n46=url&ads.v46=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n47=pos&ads.v47=midroll&ads.n48=w&ads.v48=1920&ads.n49=ifa_type&ads.v49=&ads.n50=device_type&ads.v50=&ads.n51=content_custom_3_param&ads.v51=channel&ads.n52=channel_name&ads.v52=EPG%20%20Cowboy%20Classics&ads.n53=app_name&ads.v53=&ads.n54=channel_rating&ads.v54=TV-PG&ads.n55=channel_language&ads.v55=English&ads.n56=did&ads.v56=
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7DB404D9-5CF0-414C-9A60-A05839756563/3-1x1.png" tvg-id="LN_7DB404D9-5CF0-414C-9A60-A05839756563" group-title="Movies Classic",Kung Fu Movies
+https://s2host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config2/d/XUU229YVT9R4U3TK0SQC/hls3/now_-1m_15s/m.m3u8?ads.content_series=invincible%20obsessed%20fighter.1982.exported&ads.ic=IAB1-5&ads.provider=Global%20Media&ads.rating=TV14&ads.vast_id=SGL104&ads.channel_name=Kung%20Fu%20Movies&ads.content_genre=Action%2CClassic%2CMovies&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&ccpa_us_privacy=1YNY&device_devicetype=desktop_web&height=1080&ip_addr=181.215.195.227&ads.cdnhost=s2host3.localnow.api.cms.amdvids.com&ads.playbackid=7DB404D9-5CF0-414C-9A60-A05839756563&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=7DB404D9-5CF0-414C-9A60-A05839756563&ads.n4=content_name&ads.v4=EPG%20%7C%20Kung%20Fu%20Movies&ads.n21=us_privacy&ads.v21=1YNY&ads.n22=content_type&ads.v22=channel&ads.n23=channel_name&ads.v23=EPG%20%20Kung%20Fu%20Movies&ads.n24=channel_genre&ads.v24=Action%2FAdventure&ads.n25=channel_brand_id&ads.v25=AMDB012682&ads.n26=device_type&ads.v26=&ads.n27=content_livestream&ads.v27=1&ads.n28=network_name&ads.v28=kung-fu-movies&ads.n29=channel_ext_id&ads.v29=61f9beda75ae24607c1e2885&ads.n30=app_store_url&ads.v30=&ads.n31=dnt&ads.v31=&ads.n32=app_name&ads.v32=&ads.n33=url&ads.v33=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n34=channel_rating&ads.v34=TV-PG&ads.n35=channel_title&ads.v35=EPG%20%20Kung%20Fu%20Movies&ads.n36=channel_corp&ads.v36=SotalCloud%20INC&ads.n37=content_custom_2_param&ads.v37=AMDB012682&ads.n38=device_make&ads.v38=&ads.n39=channel_company_id&ads.v39=AMDP500264&ads.n40=content_producer_name&ads.v40=SotalCloud%20INC&ads.n41=w&ads.v41=1920&ads.n42=channel_language&ads.v42=English&ads.n43=did&ads.v43=&ads.n44=ua&ads.v44=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n45=channel_id&ads.v45=7DB404D9-5CF0-414C-9A60-A05839756563&ads.n46=ip&ads.v46=181.215.195.227&ads.n47=content_custom_3_param&ads.v47=channel&ads.n48=content_custom_1_param&ads.v48=7DB404D9-5CF0-414C-9A60-A05839756563&ads.n49=app_bundle&ads.v49=&ads.n50=content_provider&ads.v50=kung-fu-movies&ads.n51=device_model&ads.v51=&ads.n52=ifa_type&ads.v52=&ads.n53=pos&ads.v53=midroll&ads.n54=app_version&ads.v54=0.0.0&ads.n55=cust_devicename&ads.v55=desktop_web&ads.n56=h&ads.v56=1080
+#EXTINF:-1 tvg-id="DistroTVUS_28953" tvg-logo="https://a.jsrdn.com/hls/22759/lone-star/logo_20231219_215208_70.png" group-title="Movies Classic",Lone Star
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lone-star/index.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22759&ads.content_duration=18000&ads.episode_id=28953&ads.show_id=1055&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CWestern%2CClassic%20Movies%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Lone%20Star&ads.episodetitle=Lone%20Star&ads.keywords=lone%20star%2Cfilm%20detective&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 group-title="Movies Classic",The Film Detective
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="Timeline.us" tvg-logo="https://i.imgur.com/PZRQvFv.png" group-title="Documentary and More",Timeline
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-logo="https://i.imgur.com/gFHKCbZ.png" group-title="Documentary and More",The Bob Ross Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Documentary and More",Pluto TV History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed48-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b0c9a3d-9786-4dee-8eea-1dfcbea2ee1b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary and More",Beyond History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb9844db5a4a0007ebc2a3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a42-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d3e7f565-b65d-418f-9f3a-1da5e2c255f3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary and More",History
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary and More",Modern Marvels Presented by HISTORY
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775d29dfed030008cb3db2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ed6ccc7-6463-4bcb-ac69-b4dfa479016d
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary and More",True History Channel
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTime.es" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentary and More",NatureTime
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="Documentary and More",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSNature.us" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="Documentary and More",PBS Nature
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f23-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c1a2f62c-0e00-4ba7-b555-34d14d59fee4
+#EXTINF:-1 tvg-id="BritishComedy.us" tvg-logo="https://i.imgur.com/LlwoR74.png" group-title="Documentary and More",British Comedy
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f870184865da00074210ee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743ca-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eb435cdf-0572-470d-a677-52380a0d39e7
+#EXTINF:-1 tvg-id="PlutoTVComedy.us" tvg-logo="https://i.imgur.com/MTVrbd5.png" group-title="Documentary and More",Pluto TV Comedy
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac639-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9ed92f1-1fa3-4a05-abd8-e6b077ed35c4
+#EXTINF:-1 group-title="Documentary and More",Young Hollywood
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary and More",Conflict (US)
+https://rightsboosterltd-conflict-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary and More",Cops (GB)
+https://langleyproductions-cops-2-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary and More",Crime and Punishment (US)
+https://rightsboosterltd-crime-and-punishment-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary and More",Fashion TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Documentary and More",Go USA (EU)
+https://brandusa-gousa-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary and More",Infast
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Documentary and More",BBC Earth (US)
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 group-title="Documentary and More",BBC Top Gear (US)
+https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9FFFF243-7CC0-4D6F-8063-5397736E8A91/3-1x1.png" tvg-id="LN_9FFFF243-7CC0-4D6F-8063-5397736E8A91" group-title="Documentary and More",Impossible - Quiz Show
+https://cc64789e4a4b41b2a1a64193a8377612.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_ImpossibleQuizShow/playlist.m3u8?ads.channel_corp=BBC%20Studios%20Americas%20INC&ads.wurl_name=ImpossibleQuizShow&ads.device_model=&ads.app_store_url=&ads.ifa_type=&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.device_type=&ads.cust_devicename=&ads.did=&ads.content_genre=Gaming%20and%20More&ads.content_id=9FFFF243-7CC0-4D6F-8063-5397736E8A91&ads.content_provider=impossible-quiz-show&ads.channel_brand_id=AMDB013484&ads.device_make=&ads.us_privacy=1YNY&ads.app_bundle=&ads.content_title=Impossible%20-%20Quiz%20Show&ads.dnt=&ads.channel_company_id=AMDP500542&ads.coppa=0&ads.ip=181.215.195.227&ads.wurl_channel=1011&ads.app_name=&ads.cust_channeltype=channel&ads.channel_ext_id=&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0&device_devicetype=desktop_web
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E433C352-E861-484F-BFFE-4F0A8A95F5A2/3-1x1.png" tvg-id="LN_E433C352-E861-484F-BFFE-4F0A8A95F5A2" group-title="Documentary and More",BBC Game Shows
+https://42b2f2022f7a4acc9f27eb2977e640df.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_BBCGameShows/playlist.m3u8?ads.ip=181.215.195.227&ads.coppa=0&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.device_type=&ads.content_id=E433C352-E861-484F-BFFE-4F0A8A95F5A2&ads.ifa_type=&ads.content_provider=bbc-game-shows&ads.us_privacy=1YNY&ads.channel_ext_id=&ads.wurl_name=BBCGameShows&ads.cust_devicename=&ads.channel_brand_id=AMDB013485&ads.channel_company_id=AMDP500542&ads.did=&ads.content_title=BBC%20Game%20Shows&ads.content_genre=Gaming%20and%20More&ads.device_make=&ads.device_model=&ads.channel_corp=BBC%20Studios%20Americas%20INC&ads.app_store_url=&ads.wurl_channel=1573&ads.dnt=&ads.cust_channeltype=channel&ads.app_bundle=&ads.app_name=&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/3E365F9C-E1F6-434F-9C51-0F331DCCBC2C/3-1x1.png" tvg-id="LN_3E365F9C-E1F6-434F-9C51-0F331DCCBC2C" group-title="Documentary and More",NatureStream.TV
+https://s5host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config7/strm/channels/naturestreamm2/master.m3u8?ads.cdnhost=s5host4.localnow.api.cms.amdvids.com&ads.playbackid=3E365F9C-E1F6-434F-9C51-0F331DCCBC2C&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=3E365F9C-E1F6-434F-9C51-0F331DCCBC2C&ads.n4=content_name&ads.v4=EPG%20%7C%20NatureStream.TV&ads.n21=channel_rating&ads.v21=TV-PG&ads.n22=channel_brand_id&ads.v22=AMDB012532&ads.n23=content_custom_2_param&ads.v23=AMDB012532&ads.n24=channel_title&ads.v24=EPG%20%20NatureStream.TV&ads.n25=network_name&ads.v25=naturestreamtv&ads.n26=channel_id&ads.v26=3E365F9C-E1F6-434F-9C51-0F331DCCBC2C&ads.n27=ip&ads.v27=181.215.195.227&ads.n28=did&ads.v28=&ads.n29=device_make&ads.v29=&ads.n30=device_type&ads.v30=&ads.n31=channel_language&ads.v31=English&ads.n32=dnt&ads.v32=&ads.n33=content_type&ads.v33=channel&ads.n34=app_version&ads.v34=0.0.0&ads.n35=cust_devicename&ads.v35=desktop_web&ads.n36=h&ads.v36=1080&ads.n37=w&ads.v37=1920&ads.n38=channel_corp&ads.v38=Nature%20Stream%20TV&ads.n39=app_bundle&ads.v39=&ads.n40=content_custom_3_param&ads.v40=channel&ads.n41=channel_company_id&ads.v41=AMDP500236&ads.n42=url&ads.v42=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n43=content_producer_name&ads.v43=Nature%20Stream%20TV&ads.n44=channel_genre&ads.v44=Nature&ads.n45=ifa_type&ads.v45=&ads.n46=channel_ext_id&ads.v46=62740bd53f67b501e23be192&ads.n47=content_custom_1_param&ads.v47=3E365F9C-E1F6-434F-9C51-0F331DCCBC2C&ads.n48=us_privacy&ads.v48=1YNY&ads.n49=ua&ads.v49=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n50=app_name&ads.v50=&ads.n51=device_model&ads.v51=&ads.n52=content_provider&ads.v52=naturestreamtv&ads.n53=content_livestream&ads.v53=1&ads.n54=app_store_url&ads.v54=&ads.n55=pos&ads.v55=midroll&ads.n56=channel_name&ads.v56=EPG%20%20NatureStream.TV
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BFEC5D73-7BFF-4DED-A1C1-EA4429D758ED/3-1x1.png" tvg-id="LN_BFEC5D73-7BFF-4DED-A1C1-EA4429D758ED" group-title="Documentary and More",Quietude
+https://s7host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config7/dist/localnow/81/hls/master/playlist.m3u8?ads.cdnhost=s7host1.localnow.api.cms.amdvids.com&ads.playbackid=BFEC5D73-7BFF-4DED-A1C1-EA4429D758ED&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=BFEC5D73-7BFF-4DED-A1C1-EA4429D758ED&ads.n4=content_name&ads.v4=EPG%20%7C%20Quietude&ads.n21=device_make&ads.v21=&ads.n22=channel_company_id&ads.v22=AMDP500136&ads.n23=us_privacy&ads.v23=1YNY&ads.n24=content_type&ads.v24=channel&ads.n25=app_version&ads.v25=0.0.0&ads.n26=channel_genre&ads.v26=Lifestyle&ads.n27=device_type&ads.v27=&ads.n28=ip&ads.v28=181.215.195.227&ads.n29=network_name&ads.v29=quietude&ads.n30=pos&ads.v30=midroll&ads.n31=app_bundle&ads.v31=&ads.n32=channel_rating&ads.v32=TV-PG&ads.n33=dnt&ads.v33=&ads.n34=w&ads.v34=1920&ads.n35=ifa_type&ads.v35=&ads.n36=device_model&ads.v36=&ads.n37=channel_corp&ads.v37=Frequency%20Networks%20INC&ads.n38=content_producer_name&ads.v38=Frequency%20Networks%20INC&ads.n39=channel_title&ads.v39=EPG%20%20Quietude&ads.n40=channel_brand_id&ads.v40=AMDB012094&ads.n41=app_store_url&ads.v41=&ads.n42=did&ads.v42=&ads.n43=content_provider&ads.v43=quietude&ads.n44=ua&ads.v44=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n45=channel_id&ads.v45=BFEC5D73-7BFF-4DED-A1C1-EA4429D758ED&ads.n46=content_custom_2_param&ads.v46=AMDB012094&ads.n47=channel_language&ads.v47=English&ads.n48=cust_devicename&ads.v48=desktop_web&ads.n49=content_livestream&ads.v49=1&ads.n50=app_name&ads.v50=&ads.n51=url&ads.v51=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n52=h&ads.v52=1080&ads.n53=content_custom_1_param&ads.v53=BFEC5D73-7BFF-4DED-A1C1-EA4429D758ED&ads.n54=content_custom_3_param&ads.v54=channel&ads.n55=channel_ext_id&ads.v55=6058388865ed372e5d546422&ads.n56=channel_name&ads.v56=EPG%20%20Quietude
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E8E1D8F4-58AF-488E-A79B-9A87C2003666/3-1x1.png" tvg-id="LN_E8E1D8F4-58AF-488E-A79B-9A87C2003666" group-title="Documentary and More",Carbon TV
+https://s3host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config4/v1/fast/localnowcarbontv/72f454a2-757e-4228-b453-7beb56acc467.m3u8?ads.cdnhost=s3host5.localnow.api.cms.amdvids.com&ads.playbackid=E8E1D8F4-58AF-488E-A79B-9A87C2003666&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=E8E1D8F4-58AF-488E-A79B-9A87C2003666&ads.n4=content_name&ads.v4=EPG%20%7C%20Carbon%20TV&ads.n21=content_provider&ads.v21=carbon-tv&ads.n22=ifa_type&ads.v22=&ads.n23=dnt&ads.v23=&ads.n24=channel_rating&ads.v24=TV-PG&ads.n25=channel_ext_id&ads.v25=624b63c312b59736e60ca7e4&ads.n26=ip&ads.v26=181.215.195.227&ads.n27=h&ads.v27=1080&ads.n28=app_store_url&ads.v28=&ads.n29=us_privacy&ads.v29=1YNY&ads.n30=channel_title&ads.v30=EPG%20%20Carbon%20TV&ads.n31=device_type&ads.v31=&ads.n32=url&ads.v32=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n33=app_version&ads.v33=0.0.0&ads.n34=device_model&ads.v34=&ads.n35=channel_genre&ads.v35=Documentary&ads.n36=channel_company_id&ads.v36=AMDP500407&ads.n37=content_producer_name&ads.v37=Carbon%20TV%20LLC&ads.n38=w&ads.v38=1920&ads.n39=ua&ads.v39=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n40=did&ads.v40=&ads.n41=content_custom_2_param&ads.v41=AMDB012795&ads.n42=app_bundle&ads.v42=&ads.n43=channel_corp&ads.v43=Carbon%20TV%20LLC&ads.n44=content_livestream&ads.v44=1&ads.n45=channel_brand_id&ads.v45=AMDB012795&ads.n46=app_name&ads.v46=&ads.n47=pos&ads.v47=midroll&ads.n48=channel_name&ads.v48=EPG%20%20Carbon%20TV&ads.n49=network_name&ads.v49=carbon-tv&ads.n50=channel_language&ads.v50=English&ads.n51=content_type&ads.v51=channel&ads.n52=cust_devicename&ads.v52=desktop_web&ads.n53=content_custom_3_param&ads.v53=channel&ads.n54=device_make&ads.v54=&ads.n55=channel_id&ads.v55=E8E1D8F4-58AF-488E-A79B-9A87C2003666&ads.n56=content_custom_1_param&ads.v56=E8E1D8F4-58AF-488E-A79B-9A87C2003666
+#EXTINF:-1 tvg-id="DistroTVUS_25455" tvg-logo="https://a.jsrdn.com/hls/22801/tranquil-thunderstorms/logo_20231219_223555_68.png" group-title="Documentary and More",Tranquil Thunderstorms
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25455&ads.show_id=659&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel%2CLifestyle%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Tranquil%20Thunderstorms&ads.episodetitle=Tranquil%20Thunderstorms&ads.keywords=ambiance%2Cmood%2Clounge%2Cthunderstorms&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 tvg-id="DistroTVUS_33414" tvg-logo="https://a.jsrdn.com/hls/22808/sword-1/logo_20231219_222836_68.png" group-title="Sport",Sword & Shield
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sword-1/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22808&ads.content_duration=18000&ads.episode_id=33414&ads.show_id=1085&ads.showCategories=IAB2&ads.episodeCategories=IAB2&ads.genre=Entertainment%2CInfotainment%2CDocumentary%2CReality%20TV%2CLifestyle%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Sword%20%26%20Shield&ads.episodetitle=Sword%20%26%20Shield&ads.keywords=sword%20%26%20sheild&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 tvg-id="DistroTVUS_47476" tvg-logo="https://a.jsrdn.com/hls/22930/militarytimes/logo_20231219_215521_36.png" group-title="Documentary and More",MilitaryTimes
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22930&ads.content_duration=18000&ads.episode_id=47476&ads.show_id=1250&ads.showCategories=IAB5&ads.episodeCategories=IAB5&ads.genre=Education%2CInfotainment%2CDocumentary%2CHistory%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=MilitaryTimes&ads.episodetitle=MilitaryTimes&ads.keywords=sightline%2Cmilitarytimes&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=sightline&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 group-title="Documentary and More",Go Wild
+https://d3fmqi91qduj7.cloudfront.net/11401/88814580/hls/master.m3u8?ads.xumo_channelId=88814580&ads.xumo_streamId=88814580
+#EXTINF:-1 group-title="Documentary and More",AIR & SPACE
+https://9c8418ea80924443bf6a437d9be28be7.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_AIRandSPACE/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Music",MTV
+https://streamer1.nexgen.bz/MTV/index.m3u8
+#EXTINF:-1 tvg-id="BarazaTVDeepHouse.gr" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Music",Baraza TV Deep House (720p)
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="BarazaTVRelaxing.gr" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Music",Baraza TV Relaxing (720p)
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1 tvg-id="AeolosTV.gr" tvg-logo="https://i.imgur.com/4G9VvUg.png" group-title="Greek",Aeolos TV (1080p)
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTTV.gr" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg" group-title="Greek",ART TV (720p)
 https://til.pp.ua:3711/live/arttvgr70live.m3u8
 #EXTINF:-1 tvg-id="AtticaTV.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Attica_logo_155.jpg" group-title="Greek",Attica TV (1080p)
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="BarazaTVDeepHouse.gr" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Music",Baraza TV Deep House (720p)
-https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:-1 tvg-id="BarazaTVRelaxing.gr" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Music",Baraza TV Relaxing (720p)
-https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-#EXTINF:3068 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/2kVsZlv.png" group-title="Greek",ALERT
+#EXTINF:3068 tvg-name=""tvg-logo="https://i.imgur.com/2kVsZlv.png" group-title="Greek",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 tvg-id="BestTV.gr" tvg-logo="https://i.imgur.com/AeeeDUc.png" group-title="Greek",Best TV (720p) [Not 24/7]
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
@@ -164,167 +360,153 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 tvg-id="EcclesiaTV.gr" tvg-logo="https://i.imgur.com/QQSSMZx.png" group-title="Greek" ,Εκκλησία (1080p)
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Pornstar
-https://live.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Latina
-https://live.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Ass
-https://live.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Teen
-https://live.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Hardcore
-https://live.redtraffic.net/hardcore.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Threesome
-https://live.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Compilation
-https://live.adultiptv.net/compilation.m3u8
-#EXTINF:400 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/55NSQ50.png" group-title="Greek",MAK. HD
+#EXTINF:400 tvg-name=""tvg-logo="https://i.imgur.com/55NSQ50.png" group-title="Greek",MAK. HD
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ObjxuGj.jpg" group-title="Greek",NETMAX TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ObjxuGj.jpg" group-title="Greek",NETMAX TV
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/ADk1goe.jpg" group-title="Greek",NETV EUROPE HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ADk1goe.jpg" group-title="Greek",NETV EUROPE HD
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/5d9auiL.png" group-title="Greek",DIAVATA TV HD BUP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5d9auiL.png" group-title="Greek",DIAVATA TV HD BUP
 https://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/STyrob9.jpg" group-title="Movies",CINEMA CLASSICS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/STyrob9.jpg" group-title="Movies",CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="" group-title="Greek",DTV
+#EXTINF:-1 tvg-logo="" group-title="Greek",DTV
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="" group-title="Greek",LAMPSI TV
+#EXTINF:-1 tvg-logo="" group-title="Greek",LAMPSI TV
 https://livetv.streams.ovh:8081/lampsitv/index.m3u8
-#EXTINF:9009 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/ToYaStx.png" group-title="Greek",VOULI
+#EXTINF:9009 tvg-name=""tvg-logo="https://i.imgur.com/ToYaStx.png" group-title="Greek",VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://i.imgur.com/ujQHWGy.png" group-title="Greek",RIK SAT CY
+#EXTINF:-1 tvg-name=""tvg-logo="https://i.imgur.com/ujQHWGy.png" group-title="Greek",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:2227 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="" tvg-logo="https://i.imgur.com/uAIsqsP.png" group-title="Greek",SIGMA
+#EXTINF:2227 tvg-name="" tvg-logo="https://i.imgur.com/uAIsqsP.png" group-title="Greek",SIGMA
 http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/v0mW64M.png" group-title="Greek",FAROS TV CY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0mW64M.png" group-title="Greek",FAROS TV CY
 https://s1.cystream.net/live/faros1/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/Jo6jIP1.jpg" group-title="Greek",CITY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo6jIP1.jpg" group-title="Greek",CITY CHANNEL
 https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.imgur.com/rIt5pfv.png" group-title="Greek",VOULI TV CY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIt5pfv.png" group-title="Greek",VOULI TV CY
 https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 group-title="WEB TV" tvg-logo="",CYPRUS TV
+#EXTINF:-1 tvg-logo="" group-title="Greek",CYPRUS TV
 https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
-#EXTINF:3016 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="" group-title="Greek",ONE TV
+#EXTINF:3016 tvg-name="" tvg-logo="" group-title="Greek",ONE TV
 http://push-int.siliconweb.com/one/stream/playlist.m3u8
-#EXTINF:3038 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png" group-title="Greek",KONTRA
+#EXTINF:3038 tvg-name="" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png" group-title="Greek",KONTRA
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-#EXTINF:3034 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="http://greektv.pbworks.com/f/HIGH.png" group-title="Greek",HIGH TV
+#EXTINF:3034 tvg-name=""tvg-logo="http://greektv.pbworks.com/f/HIGH.png" group-title="Greek",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:3012 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/Lj3W875.png" group-title="Greek",BLUE SKY
+#EXTINF:3012 tvg-name=""tvg-logo="https://i.imgur.com/Lj3W875.png" group-title="Greek",BLUE SKY
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
-#EXTINF:5014 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""https://i.imgur.com/6zvoHaL.png" group-title="Greek",IONIAN CHANNEL
+#EXTINF:5014 tvg-name=""https://i.imgur.com/6zvoHaL.png" group-title="Greek",IONIAN CHANNEL
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-#EXTINF:4240 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="" group-title="Greek",VERGINA TV
+#EXTINF:4240 tvg-logo="" group-title="Greek",VERGINA TV
 https://ssh101.bozztv.com/ssh101/verginatv/playlist.m3u8
-#EXTINF:7110 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/ojwSJ6l.png" group-title="Greek",KRHTH TV
+#EXTINF:7110 tvg-name=""tvg-logo="https://i.imgur.com/ojwSJ6l.png" group-title="Greek",KRHTH TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
-#EXTINF:7115 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="" group-title="Greek",KRHTH 1
+#EXTINF:7115 tvg-name=""tvg-logo="" group-title="Greek",KRHTH 1
 https://livetv.streams.ovh:8081/kriti/index.m3u8
-#EXTINF:7130 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/YgBEKIy.png" group-title="Greek",NEA TV
+#EXTINF:7130 tvg-name=""tvg-logo="https://i.imgur.com/YgBEKIy.png" group-title="Greek",NEA TV
 https://live.neatv.gr:8888/hls/neatv.m3u8
-#EXTINF:7105 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/rJgfuA2.png" group-title="Greek",CRETA
+#EXTINF:7105 tvg-name=""tvg-logo="https://i.imgur.com/rJgfuA2.png" group-title="Greek",CRETA
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:5570 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/gEEjH6V.jpg" group-title="Greek",TELE KRHTH
+#EXTINF:5570 tvg-name="etv" tvg-logo="https://i.imgur.com/gEEjH6V.jpg" group-title="Greek",TELE KRHTH
 https://neon.streams.gr:8081/telekriti/index.m3u8
-#EXTINF:5006 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/sf4Twdk.png" group-title="Greek",BEST TV
+#EXTINF:5006 tvg-name=""tvg-logo="https://i.imgur.com/sf4Twdk.png" group-title="Greek",BEST TV
 https://besttv.siliconweb.com/bestTV/live_abr/playlist.m3u8
-#EXTINF:5770 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/zkTohBm.png" group-title="Greek",THRAKINET
+#EXTINF:5770 tvg-name=""tvg-logo="https://i.imgur.com/zkTohBm.png" group-title="Greek",THRAKINET
 http://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:7005 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/FmUun0P.png" group-title="Greek",AXELWOS TV
+#EXTINF:7005 tvg-name=""tvg-logo="https://i.imgur.com/FmUun0P.png" group-title="Greek",AXELWOS TV
 https://acheloostv.streamings.gr/live/stream/index.m3u8
-#EXTINF:5034 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/5KGk2yr.png" group-title="Greek",MESOGEIOS TV
+#EXTINF:5034 tvg-name=""tvg-logo="https://i.imgur.com/5KGk2yr.png" group-title="Greek",MESOGEIOS TV
 https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
-#EXTINF:7015 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/HME7kNk.png" group-title="Greek",CORFU CHANNEL
+#EXTINF:7015tvg-name=""tvg-logo="https://i.imgur.com/HME7kNk.png" group-title="Greek",CORFU CHANNEL
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:5725 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/oApa2e1.png" group-title="Greek",DIKTYO TV
+#EXTINF:5725tvg-name=""tvg-logo="https://i.imgur.com/oApa2e1.png" group-title="Greek",DIKTYO TV
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
-#EXTINF:5775 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/SWQ3eLB.png" group-title="Greek",TILE EPILOGES
+#EXTINF:5775 tvg-name=""tvg-logo="https://i.imgur.com/SWQ3eLB.png" group-title="Greek",TILE EPILOGES
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
-#EXTINF:4830 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/WQiBFmo.png" group-title="Greek",ETV
+#EXTINF:4830 tvg-name="etv" tvg-logo="https://i.imgur.com/WQiBFmo.png" group-title="Greek",ETV
 https://neon.streams.gr:8081/epsilontv/index.m3u8
-#EXTINF:4290 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/iN9EG4c.png" group-title="Greek",GNOMI TV
+#EXTINF:4290 tvg-name="" tvg-logo="https://i.imgur.com/iN9EG4c.png" group-title="Greek",GNOMI TV
 https://live.streams.ovh:8081/gnomitv/index.m3u8
-#EXTINF:4550 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-name="" tvg-logo="" group-title="Greek",RTP KENTRO
+#EXTINF:4550  tvg-name="" tvg-logo="" group-title="Greek",RTP KENTRO
 https://ssh101.bozztv.com/ssh101/rtpkentro/chunks.m3u8
-#EXTINF:4450 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/PazW9yz.png" group-title="Greek",LYCHNOS
+#EXTINF:4450 tvg-name="" tvg-logo="https://i.imgur.com/PazW9yz.png" group-title="Greek",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8 
-#EXTINF:5720 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="etv" tvg-logo="https://i.imgur.com/DUSsntS.png" group-title="Greek",AIGAIO TV
+#EXTINF:5720 tvg-name="etv" tvg-logo="https://i.imgur.com/DUSsntS.png" group-title="Greek",AIGAIO TV
 https://glb.bozztv.com/glb/ssh101/aigaiotv/index.m3u8
-#EXTINF:4320 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name=""tvg-logo="https://i.imgur.com/MtfTsvf.png" group-title="Greek",PELLA TV
+#EXTINF:4320 tvg-name=""tvg-logo="https://i.imgur.com/MtfTsvf.png" group-title="Greek",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
-#EXTINF:-1 group-title="WEB TV"tvg-logo="https://i.imgur.com/DLY2rOM.png" group-title="Greek",ED TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLY2rOM.png" group-title="Greek",ED TV
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="" group-title="Greek",HLEKTRA TV
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Greek",HLEKTRA TV
 https://ssh101.bozztv.com/ssh101/hlektra/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png" group-title="Music",BARAZA TV GREEK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNNCrTI.png" group-title="Music",BARAZA TV GREEK
 https://eco.streams.ovh:8081/barazatv/index.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png" group-title="Music",BARAZA TV GOLD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNNCrTI.png" group-title="Music",BARAZA TV GOLD
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/gjf9q2g.png" group-title="Music",BARAZA TV RELAXING
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gjf9q2g.png" group-title="Music",BARAZA TV RELAXING
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-#EXTINF:7001 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/KTtobgv.png" group-title="Music",PANIK TV
+#EXTINF:7001 tvg-logo="https://i.imgur.com/KTtobgv.png" group-title="Music",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="Greek",NRG TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="Music",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/AmW9d6H.jpg" group-title="Greek",ZOUGLA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AmW9d6H.jpg" group-title="Music",ZOUGLA TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/wb4pLkW.jpg" group-title="Music",TILEMOUSIKI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wb4pLkW.jpg" group-title="Music",TILEMOUSIKI
 https://ssh101.bozztv.com/ssh101/tilemousiki/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/H0VDfpb.jpg" group-title="Greek",MESSINIA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H0VDfpb.jpg" group-title="Greek",MESSINIA TV
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/6rtrnWv.png" group-title="Music",REAL MUSIC TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6rtrnWv.png" group-title="Music",REAL MUSIC TV
 https://webtv.topwebhost.gr:3302/stream/play.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/6rtrnWv.png" group-title="Music",KISS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6rtrnWv.png" group-title="Music",KISS TV
 https://livestream.siliconweb.com/live/kissfm/index.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="" group-title="Greek",TOP WEBHOST TV
+#EXTINF:-1 tvg-logo="" group-title="Music",TOP WEBHOST TV
 https://webtv.topwebhost.gr:3565/stream/play.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="" group-title="Music",MUSIC WEB TV
+#EXTINF:-1 tvg-logo="" group-title="Music",MUSIC WEB TV
 https://vodlive.streams.ovh:3165/stream/play.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DEjwPX1.png" group-title="Greek",IME WEB TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DEjwPX1.png" group-title="Greek",IME WEB TV
 http://theagenis.fhw.gr:8080/maintv.mp4
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png" group-title="Greek",MONTREAL GREEK TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y58Jkj8.png" group-title="Greek",MONTREAL GREEK TV
 http://live.greektv.ca/hls1/greektv.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/DcleTdR.png" group-title="Greek",GREEK VOICE 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DcleTdR.png" group-title="Greek",GREEK VOICE 
 http://65.108.62.57:8080/live/greektv1.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg" group-title="Greek",NOTIOI TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dW1bcD2.jpg" group-title="Greek",NOTIOI TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/e4umCKP.jpg" group-title="Greek",DESTINATION GREECE TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e4umCKP.jpg" group-title="Greek",DESTINATION GREECE TV
 https://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/umm0f3K.png" group-title="Greek",STENT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/umm0f3K.png" group-title="Greek",STENT TV
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg" group-title="Greek",HELLENIC TV
+#EXTINF:-1 tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg" group-title="Greek",HELLENIC TV
 http://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="" group-title="Greek",IONIA TV
+#EXTINF:-1 tvg-logo="" group-title="Greek",IONIA TV
 https://ssh101-fl.bozztv.com/ssh101/tvioniathess/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="" group-title="Movies",CINEMA TIME 
+#EXTINF:-1 tvg-logo="" group-title="Movies",CINEMA TIME 
 https://ssh101-fl.bozztv.com/ssh101/cinematimetv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="" group-title="Movies",CINEMA TIME 2
+#EXTINF:-1 tvg-logo="" group-title="Movies",CINEMA TIME 2
 https://ssh101-fl.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="" group-title="Greek",ARGOLIDA SPORT
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Greek",ARGOLIDA SPORT
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-name="" tvg-logo="" group-title="Music",MAD WORLD
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Music",MAD WORLD
 https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-name="" tvg-logo="" group-title="Movies",VILLAGE WORLD
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Movies",VILLAGE WORLD
 https://ellastvmax.better-than.tv/freetv/village-world/index.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="" group-title="Greek",EVRIPOS TV
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Greek",EVRIPOS TV
 https://media2.streambrothers.com:1936/8238/8238/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="" group-title="Greek",ECTACY TV
+#EXTINF:-1 tvg-logo="" group-title="Greek",ECTACY TV
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="" group-title="Greek",MONTAZ TV
+#EXTINF:-1 tvg-logo="" group-title="Greek",MONTAZ TV
 https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="" group-title="Sport betting",OPAP TV
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Sport",OPAP TV
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
-#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sports" group-title="Sport betting",Racing.com (720p)
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sport",Racing.com (720p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:2226 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name=""tvg-logo="https://i.imgur.com/Cdsorf6.png" group-title="Greek",ANT1 CY
-http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="4E.gr" tvg-logo="https://i.imgur.com/Na0UCV7.png" group-title="Greek",4E (720p)
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
-#EXTINF:5850 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="" tvg-logo="https://i.imgur.com/6IhEVAt.png" group-title="Greek",4E
+#EXTINF:5850 tvg-id="" tvg-logo="https://i.imgur.com/6IhEVAt.png" group-title="Greek",4E
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
-#EXTINF:300 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/V1w22Or.png" group-title="Greek",ANT1 HD
+#EXTINF:2226 tvg-name=""tvg-logo="https://i.imgur.com/Cdsorf6.png" group-title="Greek",ANT1 CY
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:300 tvg-name="" tvg-logo="https://i.imgur.com/V1w22Or.png" group-title="Greek",ANT1 HD
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Greek",ERT World (1080p)
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
@@ -334,7 +516,62 @@ http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlis
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-id="StarChannelInternational.gr" tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="Greek",STAR International (720p)
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
-#EXTINF:9007 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 
+#EXTINF:9007 tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="Sport",ERT SPORTS 
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 2
+#EXTINF:-1 tvg-name="ept-sports-live" tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="Sport",ERT SPORTS 2
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1 group-title="Sport",Billiards TV (EU)
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Bike
+https://amg13231-amg13231c1-xiaomi-international-2911.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Billiards TV (EU)
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Commune (US)
+https://bec-commune-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Escapes (EU)
+https://escapes-escapes-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Now 70s 
+https://lightning-now70s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Now 80s 
+https://lightning-now80s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Now 90s 
+https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DistroTVUS_10815" tvg-logo="https://a.jsrdn.com/hls/22696/fighting-spirit-tv/logo_20231219_201616_54.png" group-title="Sport",Fighting Spirit TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fighting-spirit-tv/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22696&ads.content_duration=18000&ads.episode_id=10815&ads.show_id=412&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CMartial%20Arts%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Fighting%20Spirit%20TV&ads.episodetitle=Fighting%20Spirit%20TV&ads.keywords=fighting%20spirit&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 tvg-id="DistroTVUS_25982" tvg-logo="https://a.jsrdn.com/hls/22814/mma-junkie/logo_20231219_215607_30.png" group-title="Sport",MMA Junkie
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22814&ads.content_duration=18000&ads.episode_id=25982&ads.show_id=661&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CMartial%20Arts%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=MMA%20Junkie&ads.episodetitle=MMA%20Junkie&ads.keywords=mma%2Cusa%20today%2Cmma%20junkie&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 tvg-id="DistroTVUS_29218" tvg-logo="https://a.jsrdn.com/hls/22817/hard-knocks-fighting/logo_20231219_202542_70.png" group-title="Sport",Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.app_bundle=__APP_BUNDLE__&ads.app_name=__APP_NAME__&ads.app_store=__STORE_URL__&ads.did=__DEVICE_ID__&ads.us_privacy=__IS_CCPA__&ads.schain=1&ads.dnt=__LIMIT_AD_TRACKING__&ads.deviceidtype=__DEVICE_ID_TYPE__&ads.gdpr=__IS_GDPR__&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 tvg-id="DistroTVUS_28301" tvg-logo="https://a.jsrdn.com/hls/22820/stadium/logo_20240112_001054_53.png" group-title="Sport",Stadium
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stadium/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22820&ads.content_duration=18000&ads.episode_id=28301&ads.show_id=1051&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CSports%20Radio%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Stadium&ads.episodetitle=Stadium&ads.keywords=stadium%20sports&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=stadium&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 tvg-id="DistroTVUS_73234" tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/logo_20231219_214555_68.png" group-title="Music",Kaloopy
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22868&ads.content_duration=18000&ads.episode_id=73234&ads.show_id=1093&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CLifestyle%2CSports%2CMusic%2CGaming%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Kaloopy&ads.episodetitle=Kaloopy&ads.keywords=Nascar%2Cmens%20lifestyle%2Ccall%20of%20duty%2Cgaming%2Cfitness%2Ctech%2Cmens%20fashion%2Chouse%20music%2Cmotorcycles%2Ccars%2Csoccer%2Cmotorsport%2Ctravel%2Cbeach%2Ccalifornia%2Cufc%2Cmilitary%2Csurfing%2Cskating%2Cfashion&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 tvg-id="DistroTVUS_37684" tvg-logo="https://a.jsrdn.com/hls/22893/world-poker-tour/logo_20231219_224338_70.png" group-title="Sport",World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22893&ads.content_duration=18000&ads.episode_id=37684&ads.show_id=1130&ads.showCategories=IAB9&ads.episodeCategories=IAB9&ads.genre=Sports%2CReality%20TV%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=World%20Poker%20Tour&ads.episodetitle=World%20Poker%20Tour&ads.keywords=wpt%2Cworld%20poker%20tour&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 tvg-id="DistroTVUS_77840" tvg-logo="https://a.jsrdn.com/hls/22964/boxing-tv/logo_20231219_185026_66.png" group-title="Sport",Boxing TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22964&ads.content_duration=18000&ads.episode_id=77840&ads.show_id=3075&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CBoxing%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Boxing%20TV&ads.episodetitle=Boxing%20TV&ads.keywords=Boxing%20TV%2CBoxing&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+#EXTINF:-1 group-title="Sport",Fifa +
+https://9923722c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Sport",American Ninja Warrior
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884523/hls/master.m3u8?ads.xumo_channelId=88884523
+
+#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg" group-title="Main",Toonami Aftermath East EST
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?useHttps=true
+
+#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20west.jpg" group-title="Main",Toonami Aftermath West PST
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8?useHttps=true
+
+#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20movies.jpg" group-title="Main",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8?useHttps=true
+
+#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20radio.jpg" group-title="Main",Toonami Aftermath Radio
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8?useHttps=true
+
+#EXTINF:0, tvg-logo="Kids" group-title="Kids",Snickelodeon East EST
+http://api.toonamiaftermath.com:3000/snick-est/playlist.m3u8?useHttps=true
+
+#EXTINF:0, tvg-logo="Kids" group-title="Kids",Snickelodeon West PST
+http://api.toonamiaftermath.com:3000/snick-pst/playlist.m3u8?useHttps=true
+
+#EXTINF:0, tvg-logo="Kids" group-title="Kids",MTV 97
+http://api.toonamiaftermath.com:3000/mtv97/playlist.m3u8?useHttps=truetrue
