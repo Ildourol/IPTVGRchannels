@@ -15,6 +15,10 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="NaftemporikiTV.gr" tvg-logo="https://i.imgur.com/9OFdMud.png" group-title="Main",Naftemporiki TV (1080p)
 https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/T4HwPUn.png" group-title="Main",Bloomberg Quicktake
+https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="BloombergTVPlus.us" group-title="Main",Bloomberg TV+
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://seeklogo.com/images/E/ert-greek-radio-and-television-logo-995A46CD3E-seeklogo.com.png" group-title="Main",ERT News (1080p)
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="E.us@East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Main",E! East
@@ -27,10 +31,18 @@ https://fl3.moveonjoy.com/FXX/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Main",Disney Channel East
 https://fl5.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Main",Nickelodeon East
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Main",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Main",Paramount Network East
 https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg" group-title="Main",Toonami Aftermath East EST
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?useHttps=true
+#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20west.jpg" group-title="Main",Toonami Aftermath West PST
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8?useHttps=true
+#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20movies.jpg" group-title="Main",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8?useHttps=true
+#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20radio.jpg" group-title="Main",Toonami Aftermath Radio
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8?useHttps=true
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7F4ED19D-B427-421F-84AC-03E3775D1203/3-1x1.png" tvg-id="LN_7F4ED19D-B427-421F-84AC-03E3775D1203" group-title="Movies",Hi-Yah!
 https://s1host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config1/dist/localnow/59/hls/master/playlist.m3u8?ads.cdnhost=s1host2.localnow.api.cms.amdvids.com&ads.playbackid=7F4ED19D-B427-421F-84AC-03E3775D1203&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=7F4ED19D-B427-421F-84AC-03E3775D1203&ads.n4=content_name&ads.v4=EPG%20%7C%20Hi-Yah%21&ads.n21=channel_company_id&ads.v21=AMDP500227&ads.n22=ua&ads.v22=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n23=content_custom_1_param&ads.v23=7F4ED19D-B427-421F-84AC-03E3775D1203&ads.n24=app_store_url&ads.v24=&ads.n25=channel_ext_id&ads.v25=6170408a74cbf57d532ff8e3&ads.n26=device_make&ads.v26=&ads.n27=h&ads.v27=1080&ads.n28=us_privacy&ads.v28=1YNY&ads.n29=channel_title&ads.v29=EPG%20%20Hi-Yah%21&ads.n30=content_custom_3_param&ads.v30=channel&ads.n31=channel_name&ads.v31=EPG%20%20Hi-Yah%21&ads.n32=content_type&ads.v32=channel&ads.n33=ifa_type&ads.v33=&ads.n34=content_livestream&ads.v34=1&ads.n35=app_version&ads.v35=0.0.0&ads.n36=ip&ads.v36=181.215.195.227&ads.n37=device_model&ads.v37=&ads.n38=channel_corp&ads.v38=Well%20Go%20USA%20INC&ads.n39=channel_rating&ads.v39=TV-PG&ads.n40=url&ads.v40=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n41=device_type&ads.v41=&ads.n42=channel_brand_id&ads.v42=AMDB012521&ads.n43=channel_language&ads.v43=English&ads.n44=channel_id&ads.v44=7F4ED19D-B427-421F-84AC-03E3775D1203&ads.n45=app_name&ads.v45=&ads.n46=app_bundle&ads.v46=&ads.n47=network_name&ads.v47=hiyah&ads.n48=dnt&ads.v48=&ads.n49=content_custom_2_param&ads.v49=AMDB012521&ads.n50=did&ads.v50=&ads.n51=w&ads.v51=1920&ads.n52=channel_genre&ads.v52=Action%2FAdventure&ads.n53=content_producer_name&ads.v53=Well%20Go%20USA%20INC&ads.n54=pos&ads.v54=midroll&ads.n55=content_provider&ads.v55=hiyah&ads.n56=cust_devicename&ads.v56=desktop_web
@@ -132,13 +144,9 @@ http://fl2.moveonjoy.com/CNBC/index.m3u8
 https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/T4HwPUn.png" group-title="Business",Bloomberg Quicktake
 https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/T4HwPUn.png" group-title="Main",Bloomberg Quicktake
-https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="BloombergTVPlus.us" group-title="Business",Bloomberg TV+
-https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="BloombergTVPlus.us" group-title="Main",Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="Business",Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
@@ -573,25 +581,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://9923722c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Sport",American Ninja Warrior
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884523/hls/master.m3u8?ads.xumo_channelId=88884523
-
-#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg" group-title="Main",Toonami Aftermath East EST
-http://api.toonamiaftermath.com:3000/est/playlist.m3u8?useHttps=true
-
-#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20west.jpg" group-title="Main",Toonami Aftermath West PST
-http://api.toonamiaftermath.com:3000/pst/playlist.m3u8?useHttps=true
-
-#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20movies.jpg" group-title="Main",Toonami Aftermath Movies
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8?useHttps=true
-
-#EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20radio.jpg" group-title="Main",Toonami Aftermath Radio
-http://api.toonamiaftermath.com:3000/radio/playlist.m3u8?useHttps=true
-
 #EXTINF:0, tvg-logo="Kids" group-title="Kids",Snickelodeon East EST
 http://api.toonamiaftermath.com:3000/snick-est/playlist.m3u8?useHttps=true
-
 #EXTINF:0, tvg-logo="Kids" group-title="Kids",Snickelodeon West PST
 http://api.toonamiaftermath.com:3000/snick-pst/playlist.m3u8?useHttps=true
-
 #EXTINF:0, tvg-logo="Kids" group-title="Kids",MTV 97
 http://api.toonamiaftermath.com:3000/mtv97/playlist.m3u8?useHttps=truetrue
 
