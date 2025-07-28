@@ -21,8 +21,6 @@ https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f
 http://31.121.110.30:4000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="ERT2.gr@HD" tvg-logo="https://i.imgur.com/nMHKG3A.png" group-title="Main",ERT2
 http://31.121.110.30:4000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://seeklogo.com/images/E/ert-greek-radio-and-television-logo-995A46CD3E-seeklogo.com.png" group-title="Main",ERT News (1080p)
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="E.us@East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Main",E! East
 https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Main",MTV East
@@ -324,6 +322,8 @@ https://til.pp.ua:3711/live/arttvgr70live.m3u8
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:3068 tvg-name=""tvg-logo="https://i.imgur.com/2kVsZlv.png" group-title="Greek",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://seeklogo.com/images/E/ert-greek-radio-and-television-logo-995A46CD3E-seeklogo.com.png" group-title="Greek",ERT News (1080p)
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="BestTV.gr" tvg-logo="https://i.imgur.com/AeeeDUc.png" group-title="Greek",Best TV (720p) [Not 24/7]
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCreta.gr" tvg-logo="https://i.imgur.com/CpIeJyt.png" group-title="Greek",Creta (540p) [Not 24/7]
