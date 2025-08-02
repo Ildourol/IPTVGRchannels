@@ -74,9 +74,9 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8?useHttps=true
 #EXTINF:0, tvg-name="Kids" tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20radio.jpg" group-title="Main",Toonami Aftermath Radio
 http://api.toonamiaftermath.com:3000/radio/playlist.m3u8?useHttps=true
 
-#EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-logo="https://i.imgur.com/QJtwJoS.png" group-title="Pluto",Stories by AMC
+#EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-logo="https://i.imgur.com/QJtwJoS.png" group-title="Pluto",Stories by AMC 1
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845
-#EXTINF:-1 tvg-id="StoriesbyAMC.us@EastHD" tvg-logo="https://i.imgur.com/QJtwJoS.png" group-title="Pluto",Stories by AMC (1080p)
+#EXTINF:-1 tvg-id="StoriesbyAMC.us@EastHD" tvg-logo="https://i.imgur.com/QJtwJoS.png" group-title="Pluto",Stories by AMC 2
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSpotlight.us" tvg-logo="https://i.imgur.com/UmuJkVB.png" group-title="Pluto",Pluto TV Spotlight
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b64-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a26dc013-1780-409c-9a56-09ae4538fe40
